@@ -1,3 +1,6 @@
+# Needs gridlines for counting
+
+
 # RE-ARC: Reverse-Engineering the Abstraction and Reasoning Corpus
 ## [Addressing ARC via Procedural Example Generation](https://arxiv.org/abs/2404.07353)
 
